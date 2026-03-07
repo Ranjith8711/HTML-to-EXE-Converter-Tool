@@ -1,5 +1,5 @@
 # ⚡ HTML TO EXE CONVERTER
-### Developed by BALAVIGNESH A
+### Developed by Ranjith R
 
 Convert any HTML project into a native Windows desktop `.exe` application.
 
@@ -145,7 +145,7 @@ Built with:
 
 ---
 
-*Developed by BALAVIGNESH A — HTML TO EXE CONVERTER v1.0*
+*Developed by Ranjith R — HTML TO EXE CONVERTER v1.0*
 
 
 
