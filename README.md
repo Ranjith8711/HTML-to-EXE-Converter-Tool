@@ -84,4 +84,8 @@ python build_cli.py input/index.html --name MyApp --width 1280 --height 720
 
 ---
 
+### 📸 Preview
+
+![3D Model Viewer Screenshot]()
+
 *⚡ Developed by **BEST_TEAM** · v2.0*
