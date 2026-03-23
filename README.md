@@ -86,6 +86,6 @@ python build_cli.py input/index.html --name MyApp --width 1280 --height 720
 
 ### 📸 Preview
 
-![Alt Text](OUTPUT PAGE/Screenshot (149).png)
+![Image Alt](OUTPUT PAGE/Screenshot (149).png)
 
 *⚡ Developed by **BEST_TEAM** · v2.0*
