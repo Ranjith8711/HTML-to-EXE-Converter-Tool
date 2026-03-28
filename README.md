@@ -119,4 +119,4 @@ python build_cli.py input/index.html --name MyApp --no-resize
 
 *⚡ Developed by **BEST_TEAM** · v3.0*
 
-!{Image Alt}(
+![Image Alt](https://github.com/Ranjith8711/HTML-to-EXE-Converter-Tool/blob/ddf0b8901c02813932ff617a91fc9dc622417b8b/Output/HOME.png)
